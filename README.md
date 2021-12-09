@@ -9,4 +9,7 @@ These programs are licensed under a <a rel="license" href="http://creativecommon
 - Chapter 1
   - [Exercise 1.1](ch1/ex1-1/main.go)
   - [Exercise 1.2](ch1/ex1-2/main.go)
+  - Exercise 1.3
   - [Exercise 1.4](ch1/ex1-4/main.go)
+  - [Exercise 1.5](ch1/ex1-5/main.go)
+  - [Exercise 1.6](ch1/ex1-6/main.go)
