@@ -1,6 +1,6 @@
 # Go Exercises <!-- omit in toc -->
 
-This repository contains possible solutions for the exercises available in the book "A Linguagem de Programação Go (in portuguese)" by Alan Donovan and Brian Kernighan.
+This repository contains possible solutions for the exercises available in the book [A Linguagem de Programação Go (in portuguese)](https://www.amazon.com.br/Linguagem-Programa%C3%A7%C3%A3o-Go-Alan-Donovan/dp/8575225464/ref=asc_df_8575225464) by Alan Donovan and Brian Kernighan.
 
 These programs are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br/>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/></a>
