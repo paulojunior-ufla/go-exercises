@@ -13,3 +13,6 @@ These programs are licensed under a <a rel="license" href="http://creativecommon
   - [Exercise 1.4](ch1/ex1-4/main.go)
   - [Exercise 1.5](ch1/ex1-5/main.go)
   - [Exercise 1.6](ch1/ex1-6/main.go)
+  - [Exercise 1.7](ch1/ex1-7/main.go)
+  - [Exercise 1.8](ch1/ex1-8/main.go)
+  - [Exercise 1.9](ch1/ex1-9/main.go)
