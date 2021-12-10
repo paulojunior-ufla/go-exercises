@@ -1,3 +1,10 @@
+// Copyright © 2021 Paulo A. P. Júnior
+// License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+// Based on the "Fetch" program by Alan A. A. Donovan & Brian W. Kernighan.
+// https://github.com/adonovan/gopl.io/blob/master/ch1/fetch/main.go
+
+// Ex1-7 prints the content found at each specified URL.
 package main
 
 import (

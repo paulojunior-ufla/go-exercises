@@ -1,3 +1,11 @@
+// Copyright © 2021 Paulo A. P. Júnior
+// License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+// Based on the "Lissajous" and "Server3" programs by Alan A. A. Donovan & Brian W. Kernighan.
+// https://github.com/adonovan/gopl.io/blob/master/ch1/lissajous/main.go
+// https://github.com/adonovan/gopl.io/blob/master/ch1/server3/main.go
+
+// Ex1-12 generates GIF animations of random Lissajous figures.
 package main
 
 import (
