@@ -22,3 +22,6 @@ These programs are licensed under a <a rel="license" href="http://creativecommon
 - Chapter 2
   - [Exercise 2.1](ch2/ex2-1/tempconv)
   - [Exercise 2.2](ch2/ex2-2)
+  - [Exercise 2.3](ch2/ex2-3)
+  - Exercise 2.4
+  - Exercise 2.5
