@@ -1,3 +1,10 @@
+// Copyright © 2021 Paulo A. P. Júnior
+// License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+// Based on the "Tempconv" program by Alan A. A. Donovan & Brian W. Kernighan.
+// https://github.com/adonovan/gopl.io/tree/master/ch2/tempconv
+
+// Ex2-2 performs Celsius and Fahrenheit conversions.
 package main
 
 import "fmt"

@@ -1,7 +1,7 @@
 // Copyright © 2021 Paulo A. P. Júnior
 // License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-// Based on the "Fetchall" program by Alan A. A. Donovan & Brian W. Kernighan.
+// Based on the "Tempconv" program by Alan A. A. Donovan & Brian W. Kernighan.
 // https://github.com/adonovan/gopl.io/blob/master/ch2/tempconv/tempconv.go
 
 // Ex2-1 performs Celsius and Fahrenheit conversions.
